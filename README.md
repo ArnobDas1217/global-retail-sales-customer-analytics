@@ -8,6 +8,26 @@ The analysis covers sales, profitability, product performance, discounts, custom
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive-overview.png)
+
+### Profitability & Product Performance
+
+![Profitability & Product Performance](screenshots/profitability-product-performance.png)
+
+### Customers, Returns & Seasonality
+
+![Customers, Returns & Seasonality](screenshots/customers-returns-seasonality.png)
+
+### Business Insights & Recommendations
+
+![Business Insights & Recommendations](screenshots/business-insights.png)
+
+---
+
 ## What I worked on
 
 I built the project from the data preparation stage through to the final dashboard:
